@@ -1,0 +1,38 @@
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\bin\Debug\PMS.exe
+D:\OneDrive\SY_LYHUO\SBKU\PMS\PMS\bin\Debug\PMS.exe.config
+D:\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.exe
+D:\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.pdb
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\bin\Debug\PMS.exe.config
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\bin\Debug\System.Data.Common.dll
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.Form1.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.frmCashia.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.frmInvoiceInformation.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.frmLogin.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.frmMain.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.frmProduct.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.frmSale.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.exe
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.pdb
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\obj\Debug\PMS.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\SY_LYHUO\SBKU\PMS\PMS\bin\Debug\PMS.pdb
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\bin\Debug\PMS.exe.config
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\bin\Debug\PMS.exe
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\bin\Debug\PMS.pdb
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\bin\Debug\System.Data.SqlClient.dll
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.csproj.AssemblyReference.cache
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.Form1.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.frmCashia.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.frmInvoiceInformation.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.frmLogin.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.frmMain.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.frmProduct.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.frmSale.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.Properties.Resources.resources
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.csproj.GenerateResource.cache
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.csproj.CoreCompileInputs.cache
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.csproj.Up2Date
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.exe
+D:\Bachelor Computer Sience\SBKU_Y2_S2\C# Programming II\Lecuture\PMS_Final\PMS\PMS\obj\Debug\PMS.pdb
